@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Practicas de Nestjs Microservicios Arturo De Jesús Martínez 
 
 ## Installation
 
